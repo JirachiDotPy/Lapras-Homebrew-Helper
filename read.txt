@@ -1,0 +1,6 @@
+# this file should be located in /Lapras/NAND Backup upon constructing the directories
+This is the NAND Backup folder. 
+It should be empty, and that is because this is the directory where you should store your Nintendo 3DS NAND files (.bin, .sha, .exefs)
+Please move this directory to a secure location or a cloud backup drive (Google Drive, Dropbox).
+
+Thank you for using Lapras, happy modding!
