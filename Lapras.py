@@ -1,4 +1,4 @@
-# written by Benjamin Saravia
+# written by JirachiDotPy on github
 # last updated March 7 2025
 
 from colorama import Fore, init
